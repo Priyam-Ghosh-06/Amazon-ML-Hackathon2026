@@ -4,12 +4,11 @@ _eda_sample/
 probelm statement/
 scratch/
 work/
-output/
 *.tsv
+!output/*.tsv
 *.pkl
 *.f32
 __pycache__/
 .DS_Store
 __MACOSX/
 .claude-flow/
-".claude-flow/"  
