@@ -1,0 +1,15 @@
+# data never goes to GitHub (too big, competition-only)
+data/
+_eda_sample/
+probelm statement/
+scratch/
+work/
+output/
+*.tsv
+*.pkl
+*.f32
+__pycache__/
+.DS_Store
+__MACOSX/
+.claude-flow/
+".claude-flow/"  
